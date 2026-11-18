@@ -1,7 +1,7 @@
 ﻿# SmartStock
 
 Smart Inventory and Order Management System
-
+--Full fledge Frontend and backend.
 ## Project Goal
 
 Manage products, suppliers, inventory, and orders.
